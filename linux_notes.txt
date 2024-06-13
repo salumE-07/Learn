@@ -1,0 +1,10 @@
+Common Directories
+/ - "root", the top of the file system hieracrchy 
+/bin - binaries and other executable programs
+/etc - system configuration files
+/home - home directories
+/opt - optional or third party software
+/tmp - temporary space, typically cleared on reboot
+/usr - user related programs
+/var - variable data, most notably log files 
+
